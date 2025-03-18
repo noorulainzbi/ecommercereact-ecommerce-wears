@@ -1,4 +1,4 @@
-# 🛍️ ECommerce Website
+# 🛍️ ECommerce Wears Website
 
 An eCommerce website built with **React** and **Tailwind CSS**, featuring product filtering, sorting, search functionality, and an add-to-cart system.
 
